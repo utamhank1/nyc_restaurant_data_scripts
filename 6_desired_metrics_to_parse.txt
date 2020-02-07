@@ -13,4 +13,8 @@ Update the columns in UniqueAddressess corresponding to the SearchQuery. The des
 
 Using similar code to calculate population in each radius, calculate the average of all of the new columns we have for each address
 
+Dataset links:
+pop_data: https://docs.google.com/spreadsheets/d/1Il4vsNlUoXAlUtCj89o33HgbpJdpppYGYeR5H6VKpUg/edit?usp=sharing
+unique_addresses: https://docs.google.com/spreadsheets/d/1PaLeyMAeFlXpAt0tpQ70PHOuNFuBbrbpzY183FUueWQ/edit?usp=sharing
+AllData.csv: Available upon request
 
