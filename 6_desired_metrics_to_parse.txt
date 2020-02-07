@@ -1,0 +1,16 @@
+For each entry in AllData, crosssearch address (column c) with the addresses stored in UniqueAddressess
+
+If there is a match (there will be except for a few cases where addressess were not in manhattan), examine the SearchQuery element in AllData. There are 12 different ones.
+
+Update the columns in UniqueAddressess corresponding to the SearchQuery. The desired metrics are below:
+
+1 number of restaurants (coumn B in AllData)
+2 average rating (not sure the best way to calculate average iteratively; perhaps store the number of entries included in the average and iterate by 1 each time its updated)
+3 average rating2 (not all of them will have a rating2 or numrating2)
+4 average numrating
+5 average numrating2
+6 average Rating Difference
+
+Using similar code to calculate population in each radius, calculate the average of all of the new columns we have for each address
+
+
